@@ -63,7 +63,8 @@
       <updated>1674111452673</updated>
       <workItem from="1674111458160" duration="4019000" />
       <workItem from="1674174678656" duration="8306000" />
-      <workItem from="1674235418870" duration="9684000" />
+      <workItem from="1674235418870" duration="13928000" />
+      <workItem from="1674493014374" duration="1985000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, added Hello World in test.java and implementation of CountingSort for Sorting Algorithms Part 1 Assignment">
       <created>1674114742951</created>
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674195165336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started Binary Search Tree, error in Node.addConnection() :(">
+      <created>1674336788789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674336788789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
