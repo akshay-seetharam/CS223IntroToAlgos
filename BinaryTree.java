@@ -1,3 +1,5 @@
+package Algos;
+
 import java.util.Collections;
 import java.util.ArrayList;
 import java.util.Objects;
@@ -34,7 +36,7 @@ public class BinaryTree {
         quantity++;
     }
     public Integer findMin(){
-        currentNode = root;
+        Node currentNode = root;
         while (!Objects.isNull(root.left)){
             currentNode = root.right;
         }
