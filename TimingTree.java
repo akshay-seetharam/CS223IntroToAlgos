@@ -1,7 +1,6 @@
 package Algos;
 
 import java.util.*;
-import BinaryTree.BinaryTree;
 
 public class TimingTree {
     public static void main(String[] args){

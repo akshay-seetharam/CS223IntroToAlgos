@@ -59,7 +59,7 @@ public class BinaryTree {
         System.out.println(binaryTree);
     } ***/
 }
-public class Node{
+class Node{
     private final Integer val;
     Node left;
     Node right;
