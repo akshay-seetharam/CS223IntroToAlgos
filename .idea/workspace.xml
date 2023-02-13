@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eec98b1-d547-4cd5-80ad-984ae068054d" name="Changes" comment="committing for safety" />
+    <list default="true" id="9eec98b1-d547-4cd5-80ad-984ae068054d" name="Changes" comment="committing for safety">
+      <change beforePath="$PROJECT_DIR$/BinaryTreePythonified.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreePythonified.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
